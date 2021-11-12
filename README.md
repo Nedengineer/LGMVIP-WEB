@@ -2,7 +2,7 @@
 
 LANGUAGES USED:
 
- I Have build an eCommerce website step by step using HTML and CSS. 
+ I Have build an eCommerce website step by step using HTML,CSS AND JAVASCRIPT.
  
  DETAILS:
  
