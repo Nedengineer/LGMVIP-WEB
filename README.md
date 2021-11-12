@@ -1,5 +1,4 @@
-![K](https://user-images.githubusercontent.com/93034609/141454307-e1a302d6-42ba-406e-80a6-5fe9106b36ca.png)
-![K](https://user-images.githubusercontent.com/93034609/141454340-5c6c6f3e-89e6-4907-9eb9-42c66b274704.png)
+
 # LGMVIP-WEB
 
 LGMVIP - Web Development
