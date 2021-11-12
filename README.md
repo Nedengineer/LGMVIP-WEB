@@ -7,6 +7,7 @@ LANGUAGES USED:
  DETAILS:
  
  In this e-commerce website design,I have create a Home page of eCommerce website with banner section, some featured categories images, then some featured products with product prices.
+ 
  LATEST PRODUCTS SECTION:
  
  Then there will be more latest products.
